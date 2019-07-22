@@ -8,5 +8,5 @@ void main()
         scanf("%d",&m);
         printf("Enter Seconds- ");
         scanf("%d",&s);
-        printf("Time is-\n%d:%d:%d\n",h*2,m*2,s*2);
+        printf("Time is- %d:%d:%d\n",h*2,m*2,s*2);
 }
