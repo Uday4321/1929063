@@ -13,7 +13,7 @@ void main()
         printf("a-b- %f\n",a-b);
         printf("a*b- %f\n",a*b);
         printf("a/b- %f\n",a/b);
-        printf("a%b- %d\n",x);
+        printf("a%cb- %d\n",'%',x);
         printf("a<b- %d\n",a<b);
         printf("a>b- %d\n",a>b);
         printf("a==b- %d\n",a==b);
