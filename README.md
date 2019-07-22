@@ -1,6 +1,6 @@
 # 1929063
 C Programming by Uday321 done for Computer Programming Lab Assignments  
 KIIT First Year  
-Bachelor Of Technology  
+B.Tech(Bachelor Of Technology)  
 Computer Science and Communication Engineering  
-B-29
+Section- B-29
