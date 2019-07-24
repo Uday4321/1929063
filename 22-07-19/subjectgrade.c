@@ -34,7 +34,7 @@ void main()
         {
                 printf("Grade- E\n");
         }
-        else if(t>=250)
+        else if(t>250)
         {
                 printf("Grade- O\n");
         }

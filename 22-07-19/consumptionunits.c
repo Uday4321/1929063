@@ -17,9 +17,9 @@ void main()
         {
                 s=230+(0.8*(c>400 ? c-400 : 0));
         }
-        else if(c>=600)
+        else if(c>600)
         {
                 s=390+(1*(c>600 ? c-600 : 0));
         }
-        printf("Total Charge- %f\n",s);
+        printf("Total Charge-  Rs. %f\n",s);
 }
