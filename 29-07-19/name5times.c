@@ -1,8 +1,8 @@
 #include <stdio.h>
 void main()
 {
-for(int i=0;i<5;i++)
-{
-printf("Uday Losalka\n");
-}
+        for(int i=0; i<5; i++)
+        {
+                printf("Uday Losalka\n");
+        }
 }
