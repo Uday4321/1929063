@@ -10,14 +10,14 @@ void main()
         double y=(pi/180)*x;
         if(T=='S'||T=='s')
         {
-                printf("sin(%f)=%f\n",x,sin(y));
+                printf("sin(%2.2f)=%2.2f\n",x,sin(y));
         }
         else if(T=='C'||T=='c')
         {
-                printf("cos(%f)=%f\n",x,cos(y));
+                printf("cos(%2.2f)=%2.2f\n",x,cos(y));
         }
         else if(T=='T'||T=='t')
         {
-                printf("tan(%f)=%f\n",x,tan(y));
+                printf("tan(%2.2f)=%2.2f\n",x,tan(y));
         }
 }
